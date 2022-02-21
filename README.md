@@ -1,7 +1,7 @@
 # Login Form
 * javaScript login form with animation
 
-* LIVE  loginformjs.netlify.app
+# loginformjs.netlify.app
 
 # Technologies used:
 * HTML
