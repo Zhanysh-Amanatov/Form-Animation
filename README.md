@@ -4,10 +4,10 @@
 * LIVE https://loginformjs.netlify.app/
 
 # Technologies used:
-* HTML
-* CSS
-* JavaScript ES6
-* Babel
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>  
+* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript ES6</a>
+*  <a href="https://babeljs.io/docs/en">Babel</a> 
 
 # Features:
 * Custom fonts
